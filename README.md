@@ -1,2 +1,7 @@
-# Web-Platform
-Hello here you will be able to find codes for making websites,etc.
+<html>
+  <body bgcolor="red" font="black">
+ <h1>  
+Web-Platform
+    </h1>
+  </body>
+</html>
